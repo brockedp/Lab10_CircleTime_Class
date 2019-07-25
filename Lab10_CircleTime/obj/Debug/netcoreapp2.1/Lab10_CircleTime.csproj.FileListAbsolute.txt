@@ -1,0 +1,11 @@
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab10_CircleTime\Lab10_CircleTime\bin\Debug\netcoreapp2.1\Lab10_CircleTime.deps.json
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab10_CircleTime\Lab10_CircleTime\bin\Debug\netcoreapp2.1\Lab10_CircleTime.runtimeconfig.json
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab10_CircleTime\Lab10_CircleTime\bin\Debug\netcoreapp2.1\Lab10_CircleTime.runtimeconfig.dev.json
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab10_CircleTime\Lab10_CircleTime\bin\Debug\netcoreapp2.1\Lab10_CircleTime.dll
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab10_CircleTime\Lab10_CircleTime\bin\Debug\netcoreapp2.1\Lab10_CircleTime.pdb
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab10_CircleTime\Lab10_CircleTime\obj\Debug\netcoreapp2.1\Lab10_CircleTime.csprojAssemblyReference.cache
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab10_CircleTime\Lab10_CircleTime\obj\Debug\netcoreapp2.1\Lab10_CircleTime.csproj.CoreCompileInputs.cache
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab10_CircleTime\Lab10_CircleTime\obj\Debug\netcoreapp2.1\Lab10_CircleTime.AssemblyInfoInputs.cache
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab10_CircleTime\Lab10_CircleTime\obj\Debug\netcoreapp2.1\Lab10_CircleTime.AssemblyInfo.cs
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab10_CircleTime\Lab10_CircleTime\obj\Debug\netcoreapp2.1\Lab10_CircleTime.dll
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab10_CircleTime\Lab10_CircleTime\obj\Debug\netcoreapp2.1\Lab10_CircleTime.pdb
